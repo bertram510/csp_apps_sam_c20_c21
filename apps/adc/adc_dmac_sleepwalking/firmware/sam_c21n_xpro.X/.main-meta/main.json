@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu32.mplabx.project.",
+        "name": "com.microchip.mcu32.mplabx.project.adc_dmac_sleepwalking",
         "version": "1.0.0",
         "displayName": "ADC DMA sleepwalking Example for SAM C20/C21 Family",
         "projectName": "adc_dmac_sleepwalking_sam_c21n_xpro",

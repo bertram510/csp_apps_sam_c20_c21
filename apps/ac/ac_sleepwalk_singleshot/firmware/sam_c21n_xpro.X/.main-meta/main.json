@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu32.mplabx.project.",
+        "name": "com.microchip.mcu32.mplabx.project.ac_sleepwalk_singleshot",
         "version": "1.0.0",
         "displayName": "AC Sleepwalking Example for SAM C20/C21 Family",
         "projectName": "ac_sleepwalk_singleshot_sam_c21n_xpro",
